@@ -38,10 +38,10 @@ de: &DEFAULT_DE
   nav:
     - title: "Leistungen"
       section: services
-    - title: "Über mich"
-      section: about
-    - title: "Portfolio"
+    - title: "Referenzen"
       section: portfolio
+    - title: "Über mich"
+      section: team
     - title: "Kontakt"
       section: contact
 de-DE:
