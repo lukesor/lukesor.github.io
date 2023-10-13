@@ -126,19 +126,34 @@ de: &DEFAULT_DE
 
   services:
     title: "Leistungen"
-    # text: ""
+    text: ""
     section: services
     list:
       - title: "Blog-Artikel"
-        shortdesc: "47 Sekunden. Das ist die verbliebene Aufmerksamkeitsspanne des modernen Menschen. Das ist die Zeit, die uns bleibt, Ihren Kunden zu überzeugen. Daher - kein Schnickschnack, direkt zum Punkt. Mehr erfahren"
+        shortdesc: "47 Sekunden. Das ist die verbliebene Aufmerksamkeitsspanne des modernen Menschen. Das ist die Zeit, die uns bleibt, Ihren Leser am Ball zu halten. Daher - kein Schnickschnack, direkt zum Punkt. Mehr erfahren"
         longdesc: "47 Sekunden. Das ist die verbliebene Aufmerksamkeitsspanne des modernen Menschen. Das ist die Zeit, die uns bleibt, Ihren Kunden zu überzeugen. Daher - kein Schnickschnack, direkt zum Punkt. Mehr erfahren"
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fas fa-newspaper #find more at https://fontawesome.com/icons
+      - title: "E-Mail Marketing"
+        shortdesc: "Regelmäßige Newsletter gehören nach wie vor zum Marketing 101. Ich helfe Ihnen die Conversions im Email-Dickicht hochzuhalten."
+        longdesc: "..."
+        icon: fas fa-envelope-open-text
+      - title: "Landing Pages"
+        shortdesc: "Herzstück vieler SEO-Kampagnen: die Landing Page. Knackige Überschriften..."
+        longdesc: "..."
+        icon: fas fa-globe
+      - title: "Werbematerialien"
+        shortdesc: "Egal ob E-Books als Leadmagneten, PDF-Guides oder Checklisten. Werbeprosa in der Langform ist meine Spezialität."
+        longdesc: "..."
+        icon: fas fa-file-word #find more at https://fontawesome.com/icons
+      - title: "Dokumentation und Handbücher"
+        shortdesc: "Als Software-Entwickler weiß ich, was eine gute Dokumentation ausmacht. Gerne unterstütze ich beim Aufbau eines gelungenen Handbuchs."
+        longdesc: "..."
+        icon: fas fa-file-code
+      - title: "Lokalisationen und Übersetzungen"
+        shortdesc: "Deutsch und Englisch, in beide Richtungen."
+        longdesc: "..."
+        icon: fas fa-language
+
     button: "Jetzt kontaktieren"
     closebutton: "Schließen"
     buttonlink: "#contact"

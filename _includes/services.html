@@ -11,22 +11,18 @@
 		  {% endif %}
         </div>
       </div>
-
       <div class="row text-center">
 	  {% for service in site.data.sitetext[site.locale].services.list %}
-        <div class="col-md-4 service-item">
-          <a class="service-link fa-stack fa-4x">
-            <div class="service-hover" data-toggle="modal" href="#s{{ forloop.index }}">
-                <div class="service-hover-content">
-                  <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                  <i class="{{ site.data.style.service-icon | default: "fas fa-plus fa-3x" }}"></i>
-                </div>
-              </div>
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="{{ service.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
+        <div class="col-md-4">
+          <a class="service-hover" data-toggle="modal" href="#s{{ forloop.index }}">
+            <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                <i class="{{ service.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse icon-nohover"></i>
+                <i class="{{ site.data.style.service-icon | default: "fas fa-plus fa-stack-1x fa-inverse icon-hover" }}"></i>
+            </span>
+            <h4 class="service-heading">{{ service.title | markdownify }}</h4>
           </a>
-          <h4 class="service-heading">{{ service.title | markdownify }}</h4>
-          {% if service.desc %}<div class="text-muted">{{ service.desc | markdownify }}</div>{% endif %}
+            {% if service.shortdesc %}<div class="text-muted">{{ service.shortdesc | markdownify }}</div>{% endif %}
         </div>
 	  {% endfor %}
       </div>
