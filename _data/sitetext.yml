@@ -126,11 +126,12 @@ de: &DEFAULT_DE
 
   services:
     title: "Leistungen"
-    text: ""
+    # text: ""
     section: services
     list:
       - title: "Blog-Artikel"
-        desc: "47 Sekunden. Das ist die verbliebene Aufmerksamkeitsspanne des modernen Menschen. Das ist die Zeit, die uns bleibt, Ihren Kunden zu überzeugen. Daher - kein Schnickschnack, geradlinig zum Punkt"
+        shortdesc: "47 Sekunden. Das ist die verbliebene Aufmerksamkeitsspanne des modernen Menschen. Das ist die Zeit, die uns bleibt, Ihren Kunden zu überzeugen. Daher - kein Schnickschnack, direkt zum Punkt. Mehr erfahren"
+        longdesc: "47 Sekunden. Das ist die verbliebene Aufmerksamkeitsspanne des modernen Menschen. Das ist die Zeit, die uns bleibt, Ihren Kunden zu überzeugen. Daher - kein Schnickschnack, direkt zum Punkt. Mehr erfahren"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -138,6 +139,9 @@ de: &DEFAULT_DE
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
+    button: "Jetzt kontaktieren"
+    closebutton: "Schließen"
+    buttonlink: "#contact"
 
   portfolio:
     title: "Portfolio"
@@ -147,8 +151,8 @@ de: &DEFAULT_DE
 
   team:
     title: "Über mich"
-    text: "Ich bin Lukas Kley."
-    subtext: richtiges lolgesicht.
+    text: "Ich bin Lukas Kley. also this text can be way lonooooooooooooooooooooooooonger thann it it s atgh tmeolkm moweinfkema dkemr."
+    subtext: richtiges lolgesicht. a much ujsoijdlkasmdl,mJKSLONGER TEXT that riwtesn al lot smore 2wordds to show to Lidia.
     section: team
     people:
       - name: "Lukas Kley"

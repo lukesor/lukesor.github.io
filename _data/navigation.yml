@@ -36,12 +36,12 @@ en-AU:
 # -------
 de: &DEFAULT_DE
   nav:
-    - title: "Leistungen"
+    - title: "Angebot"
       section: services
-    - title: "Referenzen"
-      section: portfolio
     - title: "Über mich"
       section: team
+    - title: "Referenzen"
+      section: portfolio
     - title: "Kontakt"
       section: contact
 de-DE:
