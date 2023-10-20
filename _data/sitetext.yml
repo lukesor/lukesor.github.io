@@ -208,7 +208,7 @@ de: &DEFAULT_DE
 
   contact:
     title: "Schreiben Sie mich an"
-    text: "Lorem ipsum or call 123456789"
+    text: Direkt hier übers Kontaktformular oder per E-Mail an **contact@lukaskley.com**
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
