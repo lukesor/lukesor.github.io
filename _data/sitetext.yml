@@ -120,18 +120,18 @@ en-AU:
 de: &DEFAULT_DE
   header:
     title: Schwierige Themen - einfach erklärt
-    text: Copywriting für Tech- und Software-Unternehmen
+    text: Content-Writing für Tech- und Software-Unternehmen
     button: Mehr erfahren
     buttonlink: "#services"
 
   services:
-    title: "Leistungen"
+    title: "Angebot"
     text: ""
     section: services
     list:
       - title: "Blog-Artikel"
-        shortdesc: "47 Sekunden. Das ist die verbliebene Aufmerksamkeitsspanne des modernen Menschen. Das ist die Zeit, die uns bleibt, Ihren Leser am Ball zu halten. Daher - kein Schnickschnack, direkt zum Punkt. Mehr erfahren"
-        longdesc: "47 Sekunden. Das ist die verbliebene Aufmerksamkeitsspanne des modernen Menschen. Das ist die Zeit, die uns bleibt, Ihren Kunden zu überzeugen. Daher - kein Schnickschnack, direkt zum Punkt. Mehr erfahren"
+        shortdesc: "Nutzen Sie Ihren Unternehmens-Blog, um sich als Vordenker am Markt zu positionieren."
+        longdesc: "47 Sekunden. Das ist die verbliebene Aufmerksamkeitsspanne des modernen Menschen. Das ist die Zeit, die uns bleibt, Ihren Leser zu überzeugen. Daher - kein Schnickschnack, direkt zum Punkt. Mehr erfahren"
         icon: fas fa-newspaper #find more at https://fontawesome.com/icons
       - title: "E-Mail Marketing"
         shortdesc: "Regelmäßige Newsletter gehören nach wie vor zum Marketing 101. Ich helfe Ihnen die Conversions im Email-Dickicht hochzuhalten."
@@ -150,7 +150,7 @@ de: &DEFAULT_DE
         longdesc: "..."
         icon: fas fa-file-code
       - title: "Lokalisationen und Übersetzungen"
-        shortdesc: "Deutsch und Englisch, in beide Richtungen."
+        shortdesc: "Meine Dienste biete ich in Deutsch und Englisch an. Selbstverständlich übertrage ich auch gerne Ihre bestehenden Texte in beide Sprachen - angepasst auf den jeweiligen Markt. Mit der notwendigen Präzision bei technischem Vokabular."
         longdesc: "..."
         icon: fas fa-language
 
@@ -177,11 +177,16 @@ de: &DEFAULT_DE
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
-  # about:
-  #   title: "About Us"
-  #   text: "our story"
-  #   body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-  #   section: about
+  about:
+    body: |
+      _47 Sekunden_. Das ist die durchschnittliche Aufmerksamkeitsspanne des modernen Menschen. Das ist die Zeit, die uns bleibt, deinen Leser vom Verweilen zu überzeugen. Daher komme ich am liebsten schnell zum Punkt - die schnörkeligen Formulierungen sind besser in der Schublade mit den Romanideen aufgehoben.
+
+      Als B2B-Content-Writer helfe ich dir, dein Produkt über alle Kommunikationskanäle hinweg fundiert und glaubhaft zu präsentieren - immer auf Ziel und Zielgruppe zugeschnitten.
+
+      Durch jahrelange Arbeitserfahrung in der Software-Entwicklung und im Online-Marketing sind **komplexe technische Themen** mein Spezialgebiet. Ob neues Software-Feature, gestiegene Anforderungen im Datenschutz oder Microservice-Architekturdebatten im Unternehmensblog - ich bereite eure Technik **anregend und verständlich** auf.
+
+      Als neugieriger Mensch bin ich aber auch für Themen abseits von IT und Software offen - schau' mal in meine Referenzen und schreib mich einfach an!
+    section: about
 
   # clients:
   #   section: clients
