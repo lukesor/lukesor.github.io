@@ -14,14 +14,12 @@
       <div class="row text-center">
 	  {% for service in site.data.sitetext[site.locale].services.list %}
         <div class="col-md-4">
-          <a class="service-hover" data-toggle="modal" href="#s{{ forloop.index }}">
             <span class="fa-stack fa-4x">
                 <i class="fas fa-circle fa-stack-2x text-primary"></i>
                 <i class="{{ service.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse icon-nohover"></i>
-                <i class="{{ site.data.style.service-icon | default: "fas fa-plus fa-stack-1x fa-inverse icon-hover" }}"></i>
+                <!-- <i class="{{ site.data.style.service-icon | default: "fas fa-plus fa-stack-1x fa-inverse icon-hover" }}"></i> -->
             </span>
             <h4 class="service-heading">{{ service.title | markdownify }}</h4>
-          </a>
             {% if service.shortdesc %}<div class="text-muted">{{ service.shortdesc | markdownify }}</div>{% endif %}
         </div>
 	  {% endfor %}
