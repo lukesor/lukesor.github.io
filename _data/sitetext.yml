@@ -130,28 +130,22 @@ de: &DEFAULT_DE
     section: services
     list:
       - title: "Blog-Artikel"
-        shortdesc: "Nutzen Sie Ihren Unternehmens-Blog, um sich als Vordenker am Markt zu positionieren."
-        longdesc: "47 Sekunden. Das ist die verbliebene Aufmerksamkeitsspanne des modernen Menschen. Das ist die Zeit, die uns bleibt, Ihren Leser zu überzeugen. Daher - kein Schnickschnack, direkt zum Punkt. Mehr erfahren"
-        icon: fas fa-newspaper #find more at https://fontawesome.com/icons
+        shortdesc: "Ob neues Software-Feature, aktuelle Branchen-Trends oder gestiegene Anforderungen im Datenschutz  - ich bereite eure Content-Ideen anregend und verständlich auf."
+        icon: fas fa-newspaper #https://fontawesome.com/icons
       - title: "E-Mail Marketing"
-        shortdesc: "Regelmäßige Newsletter gehören nach wie vor zum Marketing 101. Ich helfe Ihnen die Conversions im Email-Dickicht hochzuhalten."
-        longdesc: "..."
+        shortdesc: "Old but gold - regelmäßige Newsletter gehören nach wie vor zum Marketing-101. Mit abwechslungsreichen Texten helfe ich euch, die Conversions im Email-Dickicht hochzuhalten."
         icon: fas fa-envelope-open-text
       - title: "Landing Pages"
-        shortdesc: "Herzstück vieler SEO-Kampagnen: die Landing Page. Knackige Überschriften..."
-        longdesc: "..."
+        shortdesc: "Herzstück vieler SEO-Kampagnen: die Landing Page. Mit knackigen Überschriften und zielgerichteter Struktur generieren wir viele neue Leads für euer Business!"
         icon: fas fa-globe
       - title: "Werbematerialien"
         shortdesc: "Egal ob E-Books als Leadmagneten, PDF-Guides oder Checklisten. Werbeprosa in der Langform ist meine Spezialität."
-        longdesc: "..."
-        icon: fas fa-file-word #find more at https://fontawesome.com/icons
+        icon: fas fa-file-word #https://fontawesome.com/icons
       - title: "Dokumentation und Handbücher"
-        shortdesc: "Als Software-Entwickler weiß ich, was eine gute Dokumentation ausmacht. Gerne unterstütze ich beim Aufbau eines gelungenen Handbuchs."
-        longdesc: "..."
+        shortdesc: "Als Software-Entwickler weiß ich, was eine gute Dokumentation ausmacht. Mit dem Blick für die Probleme der Anwender unterstütze ich gerne beim Aufbau eines gelungenen Handbuchs."
         icon: fas fa-file-code
       - title: "Lokalisationen und Übersetzungen"
-        shortdesc: "Meine Dienste biete ich in Deutsch und Englisch an. Selbstverständlich übertrage ich auch gerne Ihre bestehenden Texte in beide Sprachen - angepasst auf den jeweiligen Markt. Mit der notwendigen Präzision bei technischem Vokabular."
-        longdesc: "..."
+        shortdesc: "Meine Dienste biete ich in Deutsch und Englisch an. Selbstverständlich übersetze ich eure bestehenden Texte in beiden Sprachen - angepasst auf den jeweiligen Markt. Mit der notwendigen Präzision bei technischem Vokabular."
         icon: fas fa-language
 
     button: "Jetzt kontaktieren"
@@ -181,9 +175,9 @@ de: &DEFAULT_DE
     body: |
       _47 Sekunden_. Das ist die durchschnittliche Aufmerksamkeitsspanne des modernen Menschen. Das ist die Zeit, die uns bleibt, deinen Leser vom Verweilen zu überzeugen. Daher komme ich am liebsten schnell zum Punkt - die schnörkeligen Formulierungen sind besser in der Schublade mit den Romanideen aufgehoben.
 
-      Als B2B-Content-Writer helfe ich dir, dein Produkt über alle Kommunikationskanäle hinweg fundiert und glaubhaft zu präsentieren - immer auf Ziel und Zielgruppe zugeschnitten.
+      Als B2B-Content-Writer helfe ich dir, dein Produkt über alle Kommunikationskanäle hinweg fundiert und glaubhaft zu präsentieren - immer auf Ziel und Zielgruppe zugeschnitten. Auf **Deutsch und Englisch**.
 
-      Durch jahrelange Arbeitserfahrung in der Software-Entwicklung und im Online-Marketing sind **komplexe technische Themen** mein Spezialgebiet. Ob neues Software-Feature, gestiegene Anforderungen im Datenschutz oder Microservice-Architekturdebatten im Unternehmensblog - ich bereite eure Technik **anregend und verständlich** auf.
+      Durch jahrelange Arbeitserfahrung in der Software-Entwicklung und im Online-Marketing sind **komplexe technische Themen** mein Spezialgebiet.
 
       Als neugieriger Mensch bin ich aber auch für Themen abseits von IT und Software offen - schau' mal in meine Referenzen und schreib mich einfach an!
     section: about
