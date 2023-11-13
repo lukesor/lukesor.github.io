@@ -161,11 +161,11 @@ de: &DEFAULT_DE
   team:
     title: "Über mich"
     text: |
-      Habe nun, ach! Medienwissenschaft und Medieninformatik durchaus studiert, mit heißem Bemühn. Da steh ich nun, ich armer Tor! Und bin glücklicherweise klüger als wie zuvor.
+      Lange stand bei mir der Berufswunsch Journalist fest, mit dem ich auch mein Studium der Medienkulturwissenschaften und Medieninformatik in Köln aufnahm.
 
-      Und Faust gelesen habe ich auch. Daneben allerdings auch im Marketing gearbeitet und anschließend 4 Jahre in der Software-Entwicklung (Backend) zugebracht.
+      Als Freund des analytischen Denkens und logischer Zusammenhänge fand ich jedoch auch am Programmieren schnell Gefallen. In meinem Werkstudentenjob im Marketing übernahm ich immer mehr Entwickleraufgaben, bis ich schließlich 4 Jahre lang in die Festanstellung als Software Engineer wechselte.
 
-      Während des Codens vermisste ich zunehmend die Kreativität des sprachlichen Ausdrucks und erinnerte mich an meinen ursprünglichen Wunsch, im Journalismus Fuß zu fassen. Auf eigene Faust (aber ohne weitere Zitate, versprochen) kombiniere ich nun mein **technisches Fachwissen** mit sprachlichem Gespür.
+      Während des Codens vermisste ich zunehmend die Kreativität des sprachlichen Ausdrucks und erinnerte mich an meinen ursprünglichen Wunsch, im Journalismus Fuß zu fassen. Auf eigene Faust kombiniere ich nun mein **technisches Fachwissen** mit sprachlichem Gespür.
     section: team
     people:
       - name: "Lukas Kley"
