@@ -145,7 +145,7 @@ de: &DEFAULT_DE
         shortdesc: "Als Software-Entwickler weiß ich, was eine gute Dokumentation ausmacht. Mit dem Blick für die Probleme der Anwender unterstütze ich gerne beim Aufbau eines gelungenen Handbuchs."
         icon: fas fa-file-code
       - title: "Lokalisationen und Übersetzungen"
-        shortdesc: "Meine Dienste biete ich in Deutsch und Englisch an. Selbstverständlich übersetze ich eure bestehenden Texte in beiden Sprachen - angepasst auf den jeweiligen Markt. Mit der notwendigen Präzision bei technischem Vokabular."
+        shortdesc: "Meine Dienste biete ich in Deutsch und Englisch an. Selbstverständlich übersetze ich eure bestehenden Texte in beide Sprachen - angepasst auf den jeweiligen Markt. Mit der notwendigen Präzision bei technischem Vokabular."
         icon: fas fa-language
 
     button: "Jetzt kontaktieren"
@@ -160,8 +160,12 @@ de: &DEFAULT_DE
 
   team:
     title: "Über mich"
-    text: "Habe nun, ach! Medienwissenschaft und Medieninformatik durchaus studiert, mit heißem Bemühn. Da steh ich nun, ich armer Tor! Und bin glücklicherweise klüger als wie zuvor. Und Faust gelesen habe ich auch. Daneben allerdings auch im Marketing gearbeitet und anschließend 5 Jahre in der Software-Entwicklung (Backend) zugebracht. Dort vermisste ich zunehmend die sprachliche Kreativität und erinnerte mich an meinen ursprünglichen Berufswunsch Journalist. Auf eigene Faust setze ich das nun um!"
-    subtext: richtiges lolgesicht. a much ujsoijdlkasmdl,mJKSLONGER TEXT that riwtesn al lot smore 2wordds to show to Lidia.
+    text: |
+      Habe nun, ach! Medienwissenschaft und Medieninformatik durchaus studiert, mit heißem Bemühn. Da steh ich nun, ich armer Tor! Und bin glücklicherweise klüger als wie zuvor.
+
+      Und Faust gelesen habe ich auch. Daneben allerdings auch im Marketing gearbeitet und anschließend 4 Jahre in der Software-Entwicklung (Backend) zugebracht.
+
+      Während des Codens vermisste ich zunehmend die Kreativität des sprachlichen Ausdrucks und erinnerte mich an meinen ursprünglichen Wunsch, im Journalismus Fuß zu fassen. Auf eigene Faust (aber ohne weitere Zitate, versprochen) kombiniere ich nun mein **technisches Fachwissen** mit sprachlichem Gespür.
     section: team
     people:
       - name: "Lukas Kley"
