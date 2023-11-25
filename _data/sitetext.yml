@@ -159,10 +159,22 @@ de: &DEFAULT_DE
     closebutton: "Close Project"
 
   team:
-    title: "Über mich"
+    title: "Wie ich arbeite"
     text: |
-      Ich liebe es, mir neues Wissen anzueignen. Im Nu arbeite ich mich in eure Themen so weit ein, dass ich zwischen den Wissensinseln der Fachabteilungen und der mitunter unversierten Leserschaft an der Küste Brücken schlagen kann. Das verstehe ich als die Essenz meiner Arbeit. Meine langjährige Arbeitserfahrung in der Softwareentwicklung kommt mir dabei natürlich zugute.
-    text_under_pic_sales_pipeline: Für mich beginnt alles mit professioneller Kommunikation - ab der ersten E-Mail. Die Zusammenarbeit mit einem Freelancer soll dein Team schließlich entlasten und nicht für zusätzliches Kopfweh sorgen.
+      Ich liebe es, mir neues Wissen anzueignen. Die Essenz meiner Arbeit sehe ich darin, zwischen den Wissensinseln eurer Fachabteilungen und den Kaufentscheidern im Zielpublikum unterhaltsam zu vermitteln. Dafür arbeite ich mich im Handumdrehen in eure Themen ein. Meine langjährige Praxiserfahrung in der Softwareentwicklung kommt mir dabei natürlich zugute.
+    section_title: Grundsätze
+    section_text: |
+      1. Professionelle Kommunikation - ab der ersten E-Mail. Die Zusammenarbeit mit einem Freelancer soll dein Team schließlich entlasten und nicht für zusätzliches Kopfweh sorgen. Ich frage lieber ein Mal mehr nach, als Raum für Missverständnisse zu lassen. So kann ich am Ende genau das liefern, was du dir vorstellst.
+
+      2. Auf der Höhe der Zeit - du weißt, wie wichtig es für dein Unternehmen ist, über aktuelle Entwicklungen Bescheid zu wissen, um sich auf dem digitalen Markt zu behaupten. Genauso bleibe ich als Dienstleister immer am Ball. KI, Progressive Web Apps, neueste Cybersecurity-Trends... diese Welt ist aufregend!
+
+      3. Pragmatismus - anstatt dir einen weiteren starren Prozess vorzusetzen, füge ich mich gerne in vorhandene Workflows und Tool-Landschaften ein. Reibung reduzieren, Resultate maximieren.
+
+      4. Qualität - auf die Details kommt es an, gerade wenn es technisch und komplex wird. In diesem Bewusstsein sind bei mir immer bis zu 3 kostenlose Feedback-Runden inkludiert (ausgereizt wurden diese aber bislang nie).
+
+      5. Transparente Preise - vorab vereinbarte Pauschalpreise halte ich für die fairste Lösung für beide Seiten. Das gibt deinem Team Planungssicherheit und mir den Freiraum, so viele Stunden zu investieren, wie für das optimale Ergebnis notwendig sind.
+
+      Klingt gut? Dann melde dich jetzt!
     section: team
     people:
       - name: "Lukas Kley"
@@ -202,8 +214,8 @@ de: &DEFAULT_DE
   #       logo: assets/img/clients/creative-market.jpg
 
   contact:
-    title: "Schreiben Sie mich an"
-    text: Direkt hier übers Kontaktformular oder per E-Mail an **contact@lukaskley.com**
+    title: "Jetzt Kennenlernen-Termin vereinbaren"
+    text: Direkt hier übers Kontaktformular, per E-Mail an **contact@lukaskley.com** oder einfach über LinkedIn
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
