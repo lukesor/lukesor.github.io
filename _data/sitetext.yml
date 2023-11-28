@@ -159,22 +159,22 @@ de: &DEFAULT_DE
     closebutton: "Close Project"
 
   team:
-    title: "Wie ich arbeite"
+    title: "Arbeitsphilosophie"
     text: |
       Ich liebe es, mir neues Wissen anzueignen. Die Essenz meiner Arbeit sehe ich darin, zwischen den Wissensinseln eurer Fachabteilungen und den Kaufentscheidern im Zielpublikum unterhaltsam zu vermitteln. Dafür arbeite ich mich im Handumdrehen in eure Themen ein. Meine langjährige Praxiserfahrung in der Softwareentwicklung kommt mir dabei natürlich zugute.
     section_title: Grundsätze
-    section_text: |
-      1. Professionelle Kommunikation - ab der ersten E-Mail. Die Zusammenarbeit mit einem Freelancer soll dein Team schließlich entlasten und nicht für zusätzliches Kopfweh sorgen. Ich frage lieber ein Mal mehr nach, als Raum für Missverständnisse zu lassen. So kann ich am Ende genau das liefern, was du dir vorstellst.
-
-      2. Auf der Höhe der Zeit - du weißt, wie wichtig es für dein Unternehmen ist, über aktuelle Entwicklungen Bescheid zu wissen, um sich auf dem digitalen Markt zu behaupten. Genauso bleibe ich als Dienstleister immer am Ball. KI, Progressive Web Apps, neueste Cybersecurity-Trends... diese Welt ist aufregend!
-
-      3. Pragmatismus - anstatt dir einen weiteren starren Prozess vorzusetzen, füge ich mich gerne in vorhandene Workflows und Tool-Landschaften ein. Reibung reduzieren, Resultate maximieren.
-
-      4. Qualität - auf die Details kommt es an, gerade wenn es technisch und komplex wird. In diesem Bewusstsein sind bei mir immer bis zu 3 kostenlose Feedback-Runden inkludiert (ausgereizt wurden diese aber bislang nie).
-
-      5. Transparente Preise - vorab vereinbarte Pauschalpreise halte ich für die fairste Lösung für beide Seiten. Das gibt deinem Team Planungssicherheit und mir den Freiraum, so viele Stunden zu investieren, wie für das optimale Ergebnis notwendig sind.
-
-      Klingt gut? Dann melde dich jetzt!
+    list:
+      - title: "Professionelle Kommunikation"
+        desc: "Ab der ersten E-Mail. Die Zusammenarbeit mit einem Freelancer soll dein Team schließlich entlasten und nicht für zusätzliches Kopfweh sorgen. Ich frage lieber ein Mal mehr nach, als Raum für Missverständnisse zu lassen. So kann ich am Ende genau das liefern, was du dir vorstellst."
+      - title: "Auf der Höhe der Zeit"
+        desc: "Du weißt, wie wichtig es für dein Unternehmen ist, über aktuelle Entwicklungen Bescheid zu wissen, um sich auf dem digitalen Markt zu behaupten. Genauso bleibe ich als Dienstleister immer am Ball. KI, Progressive Web Apps, neueste Cybersecurity-Trends... diese Welt ist aufregend!"
+      - title: "Pragmatismus"
+        desc: "Anstatt dir einen weiteren starren Prozess vorzusetzen, füge ich mich gerne in vorhandene Workflows und Tool-Landschaften ein. Reibung reduzieren, Resultate maximieren."
+      - title: "Qualität"
+        desc: "Auf die Details kommt es an, gerade wenn es technisch und komplex wird. In diesem Bewusstsein sind bei mir immer bis zu 3 kostenlose Feedback-Runden inkludiert (ausgereizt wurden diese aber bislang nie)."
+      - title: "Transparente Preise"
+        desc: "Vorab vereinbarte Pauschalpreise halte ich für die fairste Lösung für beide Seiten. Das gibt deinem Team Planungssicherheit und mir den Freiraum, so viele Stunden zu investieren, wie für das optimale Ergebnis notwendig sind."
+    closing: "Klingt gut? Dann melde dich jetzt!"
     section: team
     people:
       - name: "Lukas Kley"

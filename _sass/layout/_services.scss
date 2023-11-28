@@ -6,6 +6,8 @@
 
 // Styling for the services section
 #services {
+  color: white;
+  background-color: #8C7E72 !important;
   .service-hover {
     cursor: pointer;
     &:hover .icon-nohover:before {
@@ -20,7 +22,7 @@
     margin: 0 auto;
     padding: 25px;
     text-align: center;
-    background-color: $white;
+    background-color: $black;
     h4 {
       margin: 0;
       text-transform: none;
