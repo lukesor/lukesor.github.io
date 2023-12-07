@@ -121,7 +121,7 @@ de: &DEFAULT_DE
   header:
     title: Schwierige Themen - einfach erklärt
     text: Content-Writing für Tech- und Software-Unternehmen
-    button: Mehr erfahren
+    button: Mein Angebot
     buttonlink: "#services"
 
   services:
@@ -147,9 +147,7 @@ de: &DEFAULT_DE
       - title: "Lokalisationen und Übersetzungen"
         shortdesc: "Meine Dienste biete ich in Deutsch und Englisch an. Selbstverständlich übersetze ich eure bestehenden Texte in beide Sprachen - angepasst auf den jeweiligen Markt. Mit der notwendigen Präzision bei technischem Vokabular."
         icon: fas fa-language
-
     button: "Jetzt kontaktieren"
-    closebutton: "Schließen"
     buttonlink: "#contact"
 
   portfolio:
@@ -159,10 +157,9 @@ de: &DEFAULT_DE
     closebutton: "Close Project"
 
   team:
-    title: "Arbeitsphilosophie"
+    title: "Grundsätze meiner Arbeit"
     text: |
       Ich liebe es, mir neues Wissen anzueignen. Die Essenz meiner Arbeit sehe ich darin, zwischen den Wissensinseln eurer Fachabteilungen und den Kaufentscheidern im Zielpublikum unterhaltsam zu vermitteln. Dafür arbeite ich mich im Handumdrehen in eure Themen ein. Meine langjährige Praxiserfahrung in der Softwareentwicklung kommt mir dabei natürlich zugute.
-    section_title: Grundsätze
     list:
       - title: "Professionelle Kommunikation"
         desc: "Ab der ersten E-Mail. Die Zusammenarbeit mit einem Freelancer soll dein Team schließlich entlasten und nicht für zusätzliches Kopfweh sorgen. Ich frage lieber ein Mal mehr nach, als Raum für Missverständnisse zu lassen. So kann ich am Ende genau das liefern, was du dir vorstellst."
@@ -218,15 +215,13 @@ de: &DEFAULT_DE
     text: Direkt hier übers Kontaktformular, per E-Mail an **contact@lukaskley.com** oder einfach über LinkedIn
     section: contact
     name: "Name*"
-    name-validation: "Please enter your name."
+    name-validation: "Bitte gib deinen Namen an."
     email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
+    email-validation: "Bitte gib deine Email-Adresse an."
+    message: "Nachricht*"
+    message-validation: "Bitte gib eine Nachricht ein."
     subject: "Contact Form Submission"
-    submit: "Send Message"
+    submit: "Absenden"
 
   footer:
     legal: "Privacy Policy"
