@@ -15,9 +15,9 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Lukas Kley
+title      : Writing | Lukas Kley
 email      : contact@lukaskley.com #this is also the email contact forms will go to
 description: "Content Writing für Tech- und Softwareunternehmen"
 author     : Lukas Kley

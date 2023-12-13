@@ -126,7 +126,6 @@ de: &DEFAULT_DE
 
   services:
     title: "Angebot"
-    text: ""
     section: services
     list:
       - title: "Blog-Artikel"
