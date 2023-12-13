@@ -214,12 +214,14 @@ de: &DEFAULT_DE
 
   contact:
     title: "Jetzt Kennenlernen-Termin vereinbaren"
-    text: Direkt hier übers Kontaktformular, per E-Mail an **contact@lukaskley.com** oder einfach über LinkedIn
+    text: Direkt hier übers Kontaktformular, per E-Mail an **contact@lukaskley.com** oder einfach über <a class="text-primary" href="https://linkedin.com">LinkedIn</a>
     section: contact
     name: "Name*"
     name-validation: "Bitte gib deinen Namen an."
     email: "Email*"
     email-validation: "Bitte gib deine Email-Adresse an."
+    phone: "Telefonnummer (optional)"
+    phone-validation: "Geben Sie Ihre Telefonnummer ein."
     message: "Nachricht*"
     message-validation: "Bitte gib eine Nachricht ein."
     subject: "Contact Form Submission"
@@ -232,6 +234,87 @@ de: &DEFAULT_DE
         icon: "fab fa-linkedin-in"
       - url: mailto:contact@lukaskley.com
         icon: "far fa-envelope"
+
+  legal_notice:
+    text: |
+      ### Impressum
+      **Angaben gemäß § 5 TMG**
+
+      Lukas Kley<br>
+      Kasparstraße 8<br>
+      50670 Köln
+
+      USt-IdNr. DE361217464
+
+      **Kontakt**
+
+      E-Mail: contact@lukaskley.com<br>
+      Kontaktformular: <a class="text-white" href="https://lukaskley.com/#contact">https://lukaskley.com/#contact</a>
+
+      **V. i. S. d. § 18 Abs. 2 MStV für den Inhalt dieser Website:**<br>
+      Lukas Kley<br>
+      Kasparstraße 8<br>
+      50670 Köln
+
+      **EU-Streitschlichtung**<br>
+      Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit:<br>
+      https://ec.europa.eu/consumers/odr/.<br>
+      Meine E-Mail-Adresse finden Sie oben im Impressum.
+
+      **Verbraucherstreitbeilegung/Universalschlichtungsstelle**<br>
+      Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer
+      Verbraucherschlichtungsstelle teilzunehmen.
+      <br><br>
+
+
+      ### Datenschutzerklärung
+
+      **§ 1 Information über die Erhebung personenbezogener Daten**<br>
+      (1) Im Folgenden informieren wir über die Erhebung personenbezogener Daten bei Nutzung unserer Website. Personenbezogene Daten sind alle Daten, die auf Sie persönlich beziehbar sind, z. B. Name, Adresse, E-Mail-Adressen, Nutzerverhalten.
+
+      (2) Verantwortlicher gem. Art. 4 Abs. 7 EU-Datenschutz-Grundverordnung (DS-GVO) ist Lukas Kley, Kasparstr. 8, 50670 Köln, contact@lukaskley.com.
+
+      (3) Bei Ihrer Kontaktaufnahme mit uns per E-Mail oder über ein Kontaktformular sowie bei Ihrer Nutzung sonstiger Eingabeformulare dieser Website werden die von Ihnen mitgeteilten Daten (bspw. Ihre E-Mail-Adresse, Ihr Name und Ihre Telefonnummer) von uns gespeichert, um Ihr Anliegen zu bearbeiten. Die in diesem Zusammenhang anfallenden Daten löschen wir, nachdem die Speicherung nicht mehr erforderlich ist, oder schränken die Verarbeitung ein, falls gesetzliche Aufbewahrungspflichten bestehen.
+
+      (4) Falls wir für einzelne Funktionen unseres Angebots auf beauftragte Dienstleister zurückgreifen oder Ihre Daten für werbliche Zwecke nutzen möchten, werden wir Sie untenstehend im Detail über die jeweiligen Vorgänge informieren. Dabei nennen wir auch die festgelegten Kriterien der Speicherdauer.
+
+      **§ 2 Ihre Rechte**<br>
+      (1) Sie haben gegenüber uns folgende Rechte hinsichtlich der Sie betreffenden personenbezogenen Daten:<br>
+      • Recht auf Auskunft<br>
+      • Recht auf Berichtigung oder Löschung<br>
+      • Recht auf Einschränkung der Verarbeitung<br>
+      • Recht auf Widerspruch gegen die Verarbeitung<br>
+      • Recht auf Datenübertragbarkeit
+
+      (2) Sie haben zudem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch uns zu beschweren.
+
+      **§ 3 Erhebung personenbezogener Daten bei Besuch unserer Website**<br>
+      (1) Bei der bloß informatorischen Nutzung der Website, also wenn Sie sich nicht registrieren oder uns anderweitig Informationen übermitteln, erheben wir nur die personenbezogenen Daten, die Ihr Browser an unseren Server übermittelt. Wenn Sie unsere Website betrachten möchten, erheben wir die folgenden Daten, die für uns technisch erforderlich sind, um Ihnen unsere Website anzuzeigen und die Stabilität und Sicherheit zu ge-währleisten (Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO):<br>
+      • IP-Adresse<br>
+      • Datum und Uhrzeit der Anfrage<br>
+      • Zeitzonendifferenz zur Greenwich Mean Time (GMT)<br>
+      • Inhalt der Anforderung (konkrete Seite)<br>
+      • Zugriffsstatus/HTTP-Statuscode<br>
+      • jeweils übertragene Datenmenge<br>
+      • Website, von der die Anforderung kommt<br>
+      • Browser<br>
+      • Betriebssystem und dessen Oberfläche<br>
+      • Sprache und Version der Browsersoftware
+
+      (2) Kontaktformular:<br>
+      Wenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben aus dem Anfrageformular inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.
+      Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO, sofern Ihre Anfrage mit der Erfüllung eines Vertrags zusammenhängt oder zur Durchführung vorvertraglicher Maßnahmen erforderlich ist. In allen übrigen Fällen beruht die Verarbeitung auf unserem berechtigten Interesse an der effektiven Bearbeitung der an uns gerichteten Anfragen (Art. 6 Abs. 1 lit. f DSGVO) oder auf Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) sofern diese abgefragt wurde; die Einwilligung ist jederzeit widerrufbar.
+      Die von Ihnen im Kontaktformular eingegebenen Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z. B. nach abgeschlossener Bearbeitung Ihrer Anfrage). Zwingende gesetzliche Bestimmungen – insbesondere Aufbewahrungsfristen – bleiben unberührt.
+
+      (3) Anfrage per E-Mail, Telefon oder Telefax:<br>
+      Wenn Sie uns per E-Mail, Telefon oder Telefax kontaktieren, wird Ihre Anfrage inklusive aller daraus hervorgehenden personenbezogenen Daten (Name, Anfrage) zum Zwecke der Bearbeitung Ihres Anliegens bei uns gespeichert und verarbeitet. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter. Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO, sofern Ihre Anfrage mit der Erfüllung eines Vertrags zusammenhängt oder zur Durchführung vorvertraglicher Maßnahmen
+      erforderlich ist. In allen übrigen Fällen beruht die Verarbeitung auf unserem berechtigten Interesse an der effektiven Bearbeitung der an uns gerichteten Anfragen (Art. 6 Abs. 1 lit. f DSGVO) oder auf Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) sofern diese abgefragt wurde; die Einwilligung ist jederzeit widerrufbar.
+      Die von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z. B. nach abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen – insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.
+
+
+
+
+
 de-DE:
   <<: *DEFAULT_DE
 de-AT:
