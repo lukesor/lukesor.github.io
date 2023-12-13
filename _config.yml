@@ -19,7 +19,7 @@ baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
 title      : Lukas Kley
 email      : contact@lukaskley.com #this is also the email contact forms will go to
-description: "Copywriting für Tech- und Softwareunternehmen"
+description: "Content Writing für Tech- und Softwareunternehmen"
 author     : Lukas Kley
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg

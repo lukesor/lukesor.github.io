@@ -38,7 +38,7 @@ de: &DEFAULT_DE
   nav:
     - title: "Angebot"
       section: services
-    - title: "Über mich"
+    - title: "Meine Arbeit"
       section: team
     # - title: "Referenzen"
     #   section: portfolio

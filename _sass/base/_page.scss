@@ -10,9 +10,9 @@ p {
 }
 
 a {
-  color: $primary;
+  color: #8C7E72;
   &:hover {
-    color: darken($primary, 10%);
+    color: darken(#8C7E72, 10%);
   }
 }
 
@@ -71,12 +71,12 @@ h6 {
 
 // Highlight color customization
 ::-moz-selection {
-  background: $primary;
+  background: #8C7E72;
   text-shadow: none;
 }
 
 ::selection {
-  background: $primary;
+  background: #8C7E72;
   text-shadow: none;
 }
 

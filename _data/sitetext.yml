@@ -120,7 +120,7 @@ en-AU:
 de: &DEFAULT_DE
   header:
     title: Schwierige Themen - einfach erklärt
-    text: Content-Writing für Tech- und Software-Unternehmen
+    text: Content Writing für Tech- und Software-Unternehmen
     button: Mein Angebot
     buttonlink: "#services"
 
@@ -133,7 +133,7 @@ de: &DEFAULT_DE
         shortdesc: "Ob neues Software-Feature, aktuelle Branchen-Trends oder gestiegene Anforderungen im Datenschutz  - ich bereite eure Content-Ideen anregend und verständlich auf."
         icon: fas fa-newspaper #https://fontawesome.com/icons
       - title: "E-Mail Marketing"
-        shortdesc: "Old but gold - regelmäßige Newsletter gehören nach wie vor zum Marketing-101. Mit abwechslungsreichen Texten helfe ich euch, die Conversions im Email-Dickicht hochzuhalten."
+        shortdesc: "Old but gold - regelmäßige Newsletter gehören nach wie vor zum Marketing 101. Mit abwechslungsreichen Texten helfe ich euch, die Conversions im Email-Dickicht hochzuhalten."
         icon: fas fa-envelope-open-text
       - title: "Landing Pages"
         shortdesc: "Herzstück vieler SEO-Kampagnen: die Landing Page. Mit knackigen Überschriften und zielgerichteter Struktur generieren wir viele neue Leads für euer Business!"
@@ -175,17 +175,19 @@ de: &DEFAULT_DE
     section: team
     people:
       - name: "Lukas Kley"
-        role: "Freelance Copywriter"
+        role: "Content Writing"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+          - url: mailto:contact@lukaskley.com
+            icon: far fa-envelope
 
   about:
     body: |
       _47 Sekunden_. Das ist die durchschnittliche Aufmerksamkeitsspanne des modernen Menschen. Das ist die Zeit, die uns bleibt, deinen Leser vom Verweilen zu überzeugen. Daher komme ich am liebsten schnell zum Punkt - die schnörkeligen Formulierungen sind besser in der Schublade mit den Romanideen aufgehoben.
 
-      Als B2B-Content-Writer helfe ich dir, dein Produkt über alle Kommunikationskanäle hinweg fundiert und glaubhaft zu präsentieren - immer auf Ziel und Zielgruppe zugeschnitten. Auf **Deutsch und Englisch**.
+      Als B2B Content Writer helfe ich dir, dein Produkt über alle Kommunikationskanäle hinweg fundiert und glaubhaft zu präsentieren - immer auf Ziel und Zielgruppe zugeschnitten. Auf **Deutsch und Englisch**.
 
       Durch jahrelange Arbeitserfahrung in der Software-Entwicklung und im Online-Marketing sind **komplexe technische Themen** mein Spezialgebiet.
 
@@ -224,10 +226,12 @@ de: &DEFAULT_DE
     submit: "Absenden"
 
   footer:
-    legal: "Privacy Policy"
+    legal: "Impressum & Datenschutz"
     social:
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
+      - url: mailto:contact@lukaskley.com
+        icon: "far fa-envelope"
 de-DE:
   <<: *DEFAULT_DE
 de-AT:
