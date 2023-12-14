@@ -177,7 +177,7 @@ de: &DEFAULT_DE
         role: "Content Writing"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/lukas-kley-2705a92a5
             icon: fab fa-linkedin-in
           - url: mailto:contact@lukaskley.com
             icon: far fa-envelope
@@ -213,7 +213,7 @@ de: &DEFAULT_DE
 
   contact:
     title: "Jetzt Kennenlernen-Termin vereinbaren"
-    text: Direkt hier übers Kontaktformular, per E-Mail an **contact@lukaskley.com** oder einfach über <a class="text-primary" href="https://linkedin.com">LinkedIn</a>
+    text: Direkt hier übers Kontaktformular, per E-Mail an **contact@lukaskley.com** oder einfach über <a class="text-primary" href="https://www.linkedin.com/in/lukas-kley-2705a92a5">LinkedIn</a>
     section: contact
     name: "Name*"
     name-validation: "Bitte gib deinen Namen an."
@@ -229,7 +229,7 @@ de: &DEFAULT_DE
   footer:
     legal: "Impressum & Datenschutz"
     social:
-      - url: https://linkedin.com
+      - url: https://www.linkedin.com/in/lukas-kley-2705a92a5
         icon: "fab fa-linkedin-in"
       - url: mailto:contact@lukaskley.com
         icon: "far fa-envelope"
@@ -248,7 +248,7 @@ de: &DEFAULT_DE
       **Kontakt**
 
       E-Mail: contact@lukaskley.com<br>
-      Kontaktformular: <a class="text-white" href="https://lukaskley.com/#contact">https://lukaskley.com/#contact</a>
+      Kontaktformular: <a class="text-white" href="https://www.lukaskley.com/#contact">https://www.lukaskley.com/#contact</a>
 
       **V. i. S. d. § 18 Abs. 2 MStV für den Inhalt dieser Website:**<br>
       Lukas Kley<br>
