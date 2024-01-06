@@ -120,7 +120,7 @@ en-AU:
 de: &DEFAULT_DE
   header:
     title: Schwierige Themen - einfach erklärt
-    text: Content Writing für Tech- und Software-Unternehmen
+    text: Copywriting für Tech- und Software-Unternehmen
     button: Mein Angebot
     buttonlink: "#services"
 
@@ -174,7 +174,7 @@ de: &DEFAULT_DE
     section: team
     people:
       - name: "Lukas Kley"
-        role: "Content Writing"
+        role: "Copywriting"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://www.linkedin.com/in/lukas-kley-2705a92a5
@@ -186,7 +186,7 @@ de: &DEFAULT_DE
     body: |
       _47 Sekunden_. Das ist die durchschnittliche Aufmerksamkeitsspanne des modernen Menschen. Das ist die Zeit, die uns bleibt, deinen Leser vom Verweilen zu überzeugen. Daher komme ich am liebsten schnell zum Punkt - die schnörkeligen Formulierungen sind besser in der Schublade mit den Romanideen aufgehoben.
 
-      Als B2B Content Writer helfe ich dir, dein Produkt über alle Kommunikationskanäle hinweg fundiert und glaubhaft zu präsentieren - immer auf Ziel und Zielgruppe zugeschnitten. Auf **Deutsch und Englisch**.
+      Als B2B Copywriter helfe ich dir, dein Produkt über alle Kommunikationskanäle hinweg fundiert und glaubhaft zu präsentieren - immer auf Ziel und Zielgruppe zugeschnitten. Auf **Deutsch und Englisch**.
 
       Durch jahrelange Arbeitserfahrung in der Software-Entwicklung und im Online-Marketing sind **komplexe technische Themen** mein Spezialgebiet.
 
@@ -223,7 +223,7 @@ de: &DEFAULT_DE
     phone-validation: "Geben Sie Ihre Telefonnummer ein."
     message: "Nachricht*"
     message-validation: "Bitte gib eine Nachricht ein."
-    subject: "Kennenlernen-Termin: Content Writing"
+    subject: "Kennenlernen-Termin: Copywriting"
     submit: "Absenden"
 
   footer:
