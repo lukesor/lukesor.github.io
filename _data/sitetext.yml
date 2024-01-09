@@ -119,7 +119,7 @@ en-AU:
 # -------
 de: &DEFAULT_DE
   header:
-    title: Schwierige Themen - einfach erklärt
+    title: Komplexe Themen - einfach erklärt
     text: Copywriting für Tech- und Software-Unternehmen
     button: Mein Angebot
     buttonlink: "#services"
