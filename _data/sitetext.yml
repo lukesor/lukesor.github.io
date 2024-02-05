@@ -150,10 +150,12 @@ de: &DEFAULT_DE
     buttonlink: "#contact"
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: Referenzen
+    # text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Schließen"
+    contactbutton: "Kontaktieren"
+
 
   team:
     title: "Grundsätze meiner Arbeit"
