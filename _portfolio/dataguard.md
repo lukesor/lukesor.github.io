@@ -12,7 +12,7 @@ caption:
   thumbnail: assets/img/portfolio/dg_logo.png
 ---
 
-DataGuard bietet seinen Kunden Software-Lösungen und Beratung zu Informationssicherheit, Datenschutz und Compliance an. Hier unterstützte ich das Marketing bei der Umsetzung seiner Content-Strategie mit Blog-Artikeln, Landing Pages und Sales-Materialien auf Deutsch und Englisch und optimierte bestehende Inhalte.
+[DataGuard](https://www.dataguard.de/) bietet seinen Kunden Software-Lösungen und Beratung zu Informationssicherheit, Datenschutz und Compliance an. Hier unterstützte ich das Marketing bei der Umsetzung seiner Content-Strategie mit Blog-Artikeln, Landing Pages und Sales-Materialien auf Deutsch und Englisch und optimierte bestehende Inhalte.
 
 ### Themen
 Risikomanagement, Medizintechnik, EU NIS2-Richtlinie, ISO 27001-Zertifizierung, Informationssicherheit, Cyber Security
@@ -70,4 +70,4 @@ Aus einem Webinar Recap Artikel:
 >
 >As AJ put it: “Just three things in life are assured. Death, Taxes and Cyber-breaches.”
 
-Dir gefällt, was du liest? Dann kontaktiere mich gerne direkt über [LinkedIn](https://www.linkedin.com/in/lukas-kley-2705a92a5), per E-Mail an *contact@lukaskley.com* oder direkt hier auf der Seite.
+Dir gefällt, was du liest? Dann kontaktiere mich gerne über [LinkedIn](https://www.linkedin.com/in/lukas-kley-2705a92a5), per E-Mail an *contact@lukaskley.com* oder direkt hier auf der Seite.

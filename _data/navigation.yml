@@ -40,8 +40,8 @@ de: &DEFAULT_DE
       section: services
     - title: "Meine Arbeit"
       section: team
-    # - title: "Referenzen"
-    #   section: portfolio
+    - title: "Referenzen"
+      section: portfolio
     - title: "Kontakt"
       section: contact
 de-DE:
